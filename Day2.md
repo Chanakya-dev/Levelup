@@ -4,7 +4,7 @@
 Data types specify the type of data that a variable can hold. Java is a statically typed language, so variables must be declared with a data type.
 
 ## **Definition**
-Data-type is a keyword which helps you to know which type of data you are Storing in a Variable
+    Data-type is a keyword which helps you to know which type of data you are Storing in a Variable
 ---
 
 ## **1. Primitive Data Types**
