@@ -185,8 +185,3 @@ sc.close();
 ```
 
 ---
-
-Let me know if you want:
-- Scanner practice questions ✅  
-- Scanner with conditionals and loops examples 🔁  
-- File input using Scanner 📂  
